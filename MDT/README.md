@@ -8,8 +8,15 @@
 2. **Python** Establish dial-in MDT subscription using NETCONF with the Virtual Router and redirect telemetry data to logstash
 3. **ELK** Store, process and display data in graphical visualisations. ELK uses an open-source container [image](https://github.com/deviantony/docker-elk)
    
-**Product Overview**<br />
-1. **Login Page** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
+**Project Images**<br />
+
+1. **AWS Instances** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
+![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/blob/main/images/p3.png)
+
+2. **Telemetry Data** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
+![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/blob/main/images/p3.png)
+
+3. **ELK DashBoard** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
 ![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/blob/main/images/p3.png)
 
 # Overview <br />
