@@ -11,10 +11,10 @@
 **Project Images**<br />
 
 1. **AWS Instances** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
-![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/b.png)
+![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/c.png)
 
 2. **Telemetry Data** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
-![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/c.png)
+![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/b.png)
 
 3. **ELK DashBoard** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
 ![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/d.png)
