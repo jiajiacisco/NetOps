@@ -4,7 +4,7 @@
 <br/>
 
 **Project Components:** 
-1. **Terraform** Spin up C800V Virtual Router on AWS
+1. **Terraform** Spin up C8000V Virtual Router on AWS
 2. **Python** Establish dial-in MDT subscription using NETCONF with the Virtual Router and redirect telemetry data to logstash
 3. **ELK** Store, process and display data in graphical visualisations. ELK uses an open-source container [image](https://github.com/deviantony/docker-elk)
    
