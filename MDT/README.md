@@ -11,16 +11,9 @@
 **Product Overview**<br />
 1. **Login Page** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
 ![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/blob/main/images/p3.png)
-3. **Query Page** The webpage will fetch the Meraki Organisation and Network your API Key has access to. Select what you wish to query and input the datetime period too
-![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/tree/main/images/p4.png)
-4. **Query Records Page** Display data for all users that associated and disassociate with the Meraki Network. Data is downloadable into excel for further use
-![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/tree/main/images/p5.png)
-5. **Built-in Search Functionality** Allow users to search and filter data for a particular date, User Name or Device Name 
-![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/tree/main/images/p6.png)
 
 # Overview <br />
 ![Overall Block Diagram](https://github.com/jiajiacisco/NetOps/tree/main/MDT/images/a.png)
-
 
 **Technolgies Used:** 
 Terraform, Python, AWS, NETCONF and ELK
