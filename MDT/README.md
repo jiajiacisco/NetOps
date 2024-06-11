@@ -10,13 +10,13 @@
    
 **Project Images**<br />
 
-1. **AWS Instances** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
+1. **AWS Instances** Run `terraform apply` to spin up C8000V router on AWS Console
 ![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/c.png)
 
-2. **Telemetry Data** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
+2. **Telemetry Data** Run `python3 telemetry.py` to start streaming the telemetry data to ELK Stack
 ![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/b.png)
 
-3. **ELK DashBoard** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
+3. **ELK DashBoard** Visualise the output in a console
 ![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/d.png)
 
 # Overview <br />
