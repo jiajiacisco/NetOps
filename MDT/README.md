@@ -1,17 +1,13 @@
-# Meraki Student Presence
+# Model-Driven Telemetry (MDT)
 
-**Background:** University is looking to refresh exiting network equipment. To position Meraki in a stronger position, we wanted to show that besides providing network connectivity and cloud-based management
-Meraki APIs can be used to simplify certain opertional and administrative works in the school environment 
+**Background:** Explore using IaC to provision resources on the Cloud and logging of network telemetry data from network devices for resource management 
 <br/>
 
-**Product Description** <br/>
-MerakiStudetPresence makes use of Meraki APIs and telemetry data to enable univerity admins to have greater visbility into a student's activity in the univeristy campus <br/>
-
-**Use Cases:** 
-1. **Attendance Taking** Verify if a student visited the campus on a certain date and time
-2. **Location Analytics** Verify student location on campus based on the Access Point it connected to
-3. **Device Lost&Found** If a device goes missing, we can narrow down the location by checking which access point it is connected to
-
+**Project Components:** 
+1. **Terraform** Spin up C800V Virtual Router on AWS
+2. **Python** Establish dial-in MDT subscription using NETCONF with the Virtual Router and redirect telemetry data to logstash
+3. **ELK** Store, process and display data in graphical visualisations. ELK uses an open-source container [image](https://github.com/deviantony/docker-elk)
+   
 **Product Overview**<br />
 1. **Login Page** Enter your Meraki API Key that is obtainable from your Meraki Dashboard
 ![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/blob/main/images/p3.png)
@@ -22,13 +18,12 @@ MerakiStudetPresence makes use of Meraki APIs and telemetry data to enable unive
 5. **Built-in Search Functionality** Allow users to search and filter data for a particular date, User Name or Device Name 
 ![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/tree/main/images/p6.png)
 
-# App Design <br />
-![Overall Block Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/tree/main/images/p1.png)
-![Overall Block Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/tree/main/images/p2.png)
+# Overview <br />
+![Overall Block Diagram](https://github.com/jiajiacisco/NetOps/tree/main/MDTimages/a.png)
+
 
 **Technolgies Used:** 
-Meraki API, ReactJS,Python, Flask
-
+Terraform, Python, AWS, NETCONF and ELK
 
 
 
