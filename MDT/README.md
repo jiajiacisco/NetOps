@@ -13,7 +13,7 @@
 ![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/blob/main/images/p3.png)
 
 # Overview <br />
-![Overall Block Diagram](https://github.com/jiajiacisco/NetOps/tree/main/MDT/images/a.png)
+![Overall Block Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/a.png)
 
 **Technolgies Used:** 
 Terraform, Python, AWS, NETCONF and ELK
