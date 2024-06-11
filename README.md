@@ -1,2 +1,2 @@
 # NetOps
-Contain IaC and NetOps Scripts
+Contain IaC and NetOps Scripts for learning
