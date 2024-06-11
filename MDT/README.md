@@ -19,7 +19,7 @@
 ![App Interface Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/tree/main/images/p6.png)
 
 # Overview <br />
-![Overall Block Diagram](https://github.com/jiajiacisco/NetOps/tree/main/MDT/images/a.png)
+![Overall Block Diagram](https://github.com/jiajiacisco/NetOps/MDT/tree/main/images/a.png)
 
 
 **Technolgies Used:** 
