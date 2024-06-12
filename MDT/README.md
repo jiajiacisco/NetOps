@@ -11,10 +11,10 @@
 **Project Images**<br />
 
 1. **AWS Instances:** Run `terraform apply` to spin up C8000V router on AWS Console
-![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/c.png)
+![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/b.png)
 
 2. **Telemetry Data:** Run `python3 telemetry.py` to start streaming the telemetry data to ELK Stack
-![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/b.png)
+![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/c.png)
 
 3. **ELK DashBoard:** Visualise the output in a console
 ![App Interface Diagram](https://github.com/jiajiacisco/NetOps/blob/main/MDT/images/d.png)
